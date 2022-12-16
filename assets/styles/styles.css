@@ -1,0 +1,18 @@
+body {
+background-color: red;
+  }
+  h1 {
+    color: yellow;
+  }
+
+  .magenta-border {
+    border: 2px solid floralwhite;
+    border-radius: 12px;
+  }
+  .magenta-border {
+    border: 2px solid magenta;
+  }
+
+  #intro {
+    background-color: green;
+  }
